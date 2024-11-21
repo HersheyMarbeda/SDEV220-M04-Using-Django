@@ -1,35 +1,54 @@
-# Python
+# Byte-compiled Python files
 *.pyc
 *~
-__pycache__
+__pycache__/
 
-# Env
-.env
+# Python virtual environments
+.env/
 myvenv/
 venv/
 hershey_venv/
 
+# Database files
+*.sqlite3
 
-
-# Database
-db.sqlite3
-
-# Static folder at project root
+# Static files
 /static/
 
-# macOS
-._*
+# macOS system files
 .DS_Store
-.fseventsd
+._*
 .Spotlight-V100
+.Trashes
+.fseventsd
 
-# Windows
-Thumbs.db*
-ehthumbs*.db
+# Windows system files
+Thumbs.db
+Thumbs.db.*
+ehthumbs.db
+ehthumbs.db.*
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-# Visual Studio
+# Visual Studio Code files
 .vscode/
 .history/
 *.code-workspace
+
+# Logs
+*.log
+*.log.*
+
+# Testing and coverage
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+.cache/
+pytest_cache/
+nosetests.xml
+
+# IDE files
+.idea/
+*.iml
