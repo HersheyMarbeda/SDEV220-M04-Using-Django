@@ -7,6 +7,7 @@ __pycache__
 .env
 myvenv/
 venv/
+hershey_venv/
 
 # Database
 db.sqlite3
