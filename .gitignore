@@ -9,6 +9,8 @@ myvenv/
 venv/
 hershey_venv/
 
+
+
 # Database
 db.sqlite3
 
