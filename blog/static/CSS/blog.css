@@ -1,6 +1,9 @@
 h1 a, h2 a {
-    color: #C25100;
-    font-family: 'Lobster';
+    color: #c1121f;
+    font-family: 'DM Serif Text', serif;
+    font-weight: 400;
+    font-style: normal;
+
 }
 
 body {
@@ -8,7 +11,7 @@ body {
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #c1121f;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -68,12 +71,21 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: #c1121f;
     background: none;
-    border-color: #C25100;
+    border-color: #c1121f;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #c1121f;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer p {
+    margin: 0;
 }
