@@ -17,3 +17,5 @@
     - Django ORM
     - Dynamic Data in templates
     - Django templates
+### Personal PythonAnywhere Link for this assignment
+- https://hmarbeda.pythonanywhere.com/
