@@ -19,3 +19,12 @@
     - Django templates
 ### Personal PythonAnywhere Link for this assignment
 - https://hmarbeda.pythonanywhere.com/
+
+# Continuation to SDEV M06: Templating and Dynamic Data
+## Assignment Description 
+Navigate to the following URL: Django Tutorial:  https://tutorial.djangogirls.org/en/ 
+Complete the following sections of the tutorial.  Make sure that you complete and follow along with each action that the tutorial tells you to do.  Pay attention to what OS/Device you are using, as there are instructions for multiple types of devices / operating systems (Mac/PC/Linux):
+    - CSS - make it pretty
+    - Template Extending
+    - Extend Your Application
+    - Django Forms
