@@ -1,0 +1,4 @@
+To activate venv: source hershey_venv/bin/activate
+
+To activate local server: python manage.py runserver
+

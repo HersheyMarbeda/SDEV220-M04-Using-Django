@@ -1,3 +1,5 @@
+# This is like the Database schema for the blog app. It defines the structure of the blog post.
+
 from django.conf import settings
 from django.db import models
 from django.utils import timezone

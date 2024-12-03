@@ -1,9 +1,5 @@
 h1 a, h2 a {
-    color: #c1121f;
-    font-family: 'Lobster', cursive;
-    font-weight: 400;
-    font-style: normal;
-
+    color: #C25100;
 }
 
 body {
@@ -11,7 +7,7 @@ body {
 }
 
 .page-header {
-    background-color: #c1121f;
+    background-color: #C25100;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -30,7 +26,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'Lobster', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 
 .date {
@@ -71,26 +67,12 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #c1121f;
+    color: #C25100;
     background: none;
-    border-color: #c1121f;
+    border-color: #C25100;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #c1121f;
-}
-
-.footer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 20px 0;
-    background-color: #f8f9fa; /* Optional: Add a background color */
-}
-
-.footer p {
-    margin: 0;
+    background-color: #C25100;
 }
